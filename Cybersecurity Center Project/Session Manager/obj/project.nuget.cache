@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WBvye41deZSUu24ununw6dRsIjwyi9wsJaf/eGQgES1mucFm8RB5pAVQuSgpc+wMzcDM8BS2+ePnOgm7D6igMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sean\\Documents\\CSC\\CybersecurityCenterRepo\\Cybersecurity Center Project\\Session Manager\\Session Manager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sean\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Sean\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

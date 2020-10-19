@@ -3659,11 +3659,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\CyberTool_BLAZOR.csproj",
+      "projectUniqueName": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\CyberTool_BLAZOR.csproj",
       "projectName": "CyberTool_BLAZOR",
-      "projectPath": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\CyberTool_BLAZOR.csproj",
+      "projectPath": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\CyberTool_BLAZOR.csproj",
       "packagesPath": "C:\\Users\\Eliel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\",
+      "outputPath": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Eliel\\AppData\\Roaming\\NuGet\\NuGet.Config",

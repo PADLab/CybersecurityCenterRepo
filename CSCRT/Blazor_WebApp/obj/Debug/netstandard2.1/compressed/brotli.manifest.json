@@ -1,458 +1,453 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\lUp8UctUSDgPS6zxd-c2lGZW_XSQivOR6xTWAbCax90=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\CyberTool_BLAZOR.dll",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\9mzS9n__nu3nuqf9kFtEA77TrmKy2gUaH1UvcGNKwuU=.hash",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\CyberTool_BLAZOR.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/CyberTool_BLAZOR.dll.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\99dseBOagY3mzu5Y8Eqm8gRI_o8QbbCp7R2Ew9bQ_5E=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Net.Http.Json.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.Json.dll.br"
-    },
-    {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Buffers.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Buffers.dll.br"
-    },
-    {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\BaZPMj95_YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\mscorlib.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/mscorlib.dll.br"
-    },
-    {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\TkH6yxFQlTfY8NfznePrCdYJiEVpM9Dqy4Uu4H9qk10=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Threading.Tasks.Extensions.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Threading.Tasks.Extensions.dll.br"
-    },
-    {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\-cPXlNTX8GKF-lIn-2DIjtxTe0Wpy4ZDcyAj67b6JYk=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Memory.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Memory.dll.br"
-    },
-    {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\HQeN_ZfHAERO_uW0fP0J9J3WV1hQ3vUIOWbqGSYBPp8=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Text.Json.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Text.Json.dll.br"
-    },
-    {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\kL-omZDwqByAi_lPdMeDmr3XjHcn4RVb_LmZ4mut1Yc=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Runtime.CompilerServices.Unsafe.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Runtime.CompilerServices.Unsafe.dll.br"
-    },
-    {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\OBWh2or_2mU6elwqPfmL72FBZVKl2WzTJ4L-IrKeXM4=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Bcl.AsyncInterfaces.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Bcl.AsyncInterfaces.dll.br"
-    },
-    {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\-zcPVM75OAY_joGVM8yIC1gO1SFYWP1CFERgQ8PJkfA=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\netstandard.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/netstandard.dll.br"
-    },
-    {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\IPbQMdJxZXdk8HTlaPyXdQ6Zb82iZLphnM74yO4EURQ=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Xml.Linq.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Xml.Linq.dll.br"
-    },
-    {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\Zw2-5aDWjgMedporhjigwhi-UCLcfl0tfa0LXUyD9HE=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Core.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Core.dll.br"
-    },
-    {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\r6QdEXq0KfB8oZDzhnV4xskSbzJA0yBVi6XFpa3TGHM=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.dll.br"
-    },
-    {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\ob5gN-szfb1CwWnyQWvWvuid3u4df593KvZeoJQEaKc=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\WebAssembly.Net.WebSockets.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/WebAssembly.Net.WebSockets.dll.br"
-    },
-    {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\6XMT1eT3svGdg6hFzAHJscYdTQjakoYccYTdHmKSr7Y=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\WebAssembly.Bindings.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/WebAssembly.Bindings.dll.br"
-    },
-    {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\8g0neeYVmPrxWgbMI0ZTVO6257qMisUTPZ78egAnIMw=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Numerics.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Numerics.dll.br"
-    },
-    {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\RMOYBniHZkD8OZrBV3ONIMTZqsBhSAcBFm4pVuY9dv4=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Xml.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Xml.dll.br"
-    },
-    {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\fMngt4py0YmfHqV6eONyCI6R5m_YOE7KZ3U4MzCrskE=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Mono.Security.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Mono.Security.dll.br"
-    },
-    {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\VAHA4LWcsdHUBgFG1-xwhc4IyJ0ZH9UyK9_qSPzDa6Y=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Transactions.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Transactions.dll.br"
-    },
-    {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\C09aqx1vDLK7zQ9XnZcUqAgTDRwybxhRg-FR8HSk1v8=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Runtime.Serialization.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Runtime.Serialization.dll.br"
-    },
-    {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\6mtLxbGMMGcIfch8cp0W9gmBoI493AxBRUPGEzOn3nU=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.ServiceModel.Internals.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.ServiceModel.Internals.dll.br"
-    },
-    {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\moW4EYN6ExD6T0vSBMMggn62cZaTd8dSr9b-yj-9dPM=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Net.Http.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.dll.br"
-    },
-    {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\LUtkiqNd5ABTiuiYaqzaJxVjPq_Z4FqezuIWk-faqSA=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Net.Http.WebAssemblyHttpHandler.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.WebAssemblyHttpHandler.dll.br"
-    },
-    {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\R8CUbbWAKar388eFQJhUgiTgLEv2Mih9wr9iO0P7ImU=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.ComponentModel.Composition.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.ComponentModel.Composition.dll.br"
-    },
-    {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\ptCMHBy9q8MMLU0ukLMuvvhQk-yYljw37MTKtfsvuFQ=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.IO.Compression.FileSystem.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.IO.Compression.FileSystem.dll.br"
-    },
-    {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\hLbkXBzxUk9DSXYTLGRowe_80rxmpXsqEZbPIL4_5zs=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.IO.Compression.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.IO.Compression.dll.br"
-    },
-    {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\vcCLMX4xAsUqKuQjjIkzu1O9pHGO-tdvysgSmEjL6oo=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Drawing.Common.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Drawing.Common.dll.br"
-    },
-    {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\eejp4oI3sQBq-tI6GsJNaPu3Dkdot5Vbn8_R3w2vYLE=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Data.DataSetExtensions.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Data.DataSetExtensions.dll.br"
-    },
-    {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\dxfTuT6ffPMmvuUUTfv7_bpLtOZZZHQdz77hjhy9qHw=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Data.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Data.dll.br"
-    },
-    {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\qAKfFnquY_7UC-MzLi04rjqEhLzTryCoLg-S6MxI19I=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Numerics.Vectors.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Numerics.Vectors.dll.br"
-    },
-    {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\Tqh1Da_iTRQJEZUGAsMNFuZ4hf1PMf13WApRZod_uw4=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Text.Encodings.Web.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Text.Encodings.Web.dll.br"
-    },
-    {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\hCw1LY22tVABxR6hrruwU3N-ogBhQjijvK-76ciSwDY=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFULayer.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFULayer.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorFluentUI.BFULayer.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\V9HR-S2gRy9ZxB9w-PHfvot1acLeZRVknGcGZTd6v1E=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUTheme.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUTheme.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorFluentUI.BFUTheme.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\PEg9ghiKSWBTX0jq8pFDvv2Yvw92Y8W0ELtWrSE4fhA=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Components.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Components.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.dll.br"
     },
     {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Buffers.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Buffers.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\BaZPMj95_YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=.hash",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\mscorlib.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/mscorlib.dll.br"
+    },
+    {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\6gJMwefpsWLHWsEipZp143xn8k2Ea27upnXqjUT6iNI=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Logging.Abstractions.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Logging.Abstractions.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll.br"
     },
     {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\-zcPVM75OAY_joGVM8yIC1gO1SFYWP1CFERgQ8PJkfA=.hash",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\netstandard.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/netstandard.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\IPbQMdJxZXdk8HTlaPyXdQ6Zb82iZLphnM74yO4EURQ=.hash",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Xml.Linq.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Xml.Linq.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\Zw2-5aDWjgMedporhjigwhi-UCLcfl0tfa0LXUyD9HE=.hash",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Core.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Core.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\r6QdEXq0KfB8oZDzhnV4xskSbzJA0yBVi6XFpa3TGHM=.hash",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\ob5gN-szfb1CwWnyQWvWvuid3u4df593KvZeoJQEaKc=.hash",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\WebAssembly.Net.WebSockets.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/WebAssembly.Net.WebSockets.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\-cPXlNTX8GKF-lIn-2DIjtxTe0Wpy4ZDcyAj67b6JYk=.hash",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Memory.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Memory.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\6XMT1eT3svGdg6hFzAHJscYdTQjakoYccYTdHmKSr7Y=.hash",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\WebAssembly.Bindings.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/WebAssembly.Bindings.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\8g0neeYVmPrxWgbMI0ZTVO6257qMisUTPZ78egAnIMw=.hash",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Numerics.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Numerics.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\RMOYBniHZkD8OZrBV3ONIMTZqsBhSAcBFm4pVuY9dv4=.hash",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Xml.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Xml.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\fMngt4py0YmfHqV6eONyCI6R5m_YOE7KZ3U4MzCrskE=.hash",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Mono.Security.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Mono.Security.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\VAHA4LWcsdHUBgFG1-xwhc4IyJ0ZH9UyK9_qSPzDa6Y=.hash",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Transactions.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Transactions.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\C09aqx1vDLK7zQ9XnZcUqAgTDRwybxhRg-FR8HSk1v8=.hash",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Runtime.Serialization.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Runtime.Serialization.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\6mtLxbGMMGcIfch8cp0W9gmBoI493AxBRUPGEzOn3nU=.hash",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.ServiceModel.Internals.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.ServiceModel.Internals.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\moW4EYN6ExD6T0vSBMMggn62cZaTd8dSr9b-yj-9dPM=.hash",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Net.Http.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\LUtkiqNd5ABTiuiYaqzaJxVjPq_Z4FqezuIWk-faqSA=.hash",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Net.Http.WebAssemblyHttpHandler.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.WebAssemblyHttpHandler.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\R8CUbbWAKar388eFQJhUgiTgLEv2Mih9wr9iO0P7ImU=.hash",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.ComponentModel.Composition.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.ComponentModel.Composition.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\ptCMHBy9q8MMLU0ukLMuvvhQk-yYljw37MTKtfsvuFQ=.hash",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.IO.Compression.FileSystem.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.IO.Compression.FileSystem.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\hLbkXBzxUk9DSXYTLGRowe_80rxmpXsqEZbPIL4_5zs=.hash",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.IO.Compression.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.IO.Compression.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\vcCLMX4xAsUqKuQjjIkzu1O9pHGO-tdvysgSmEjL6oo=.hash",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Drawing.Common.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Drawing.Common.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\eejp4oI3sQBq-tI6GsJNaPu3Dkdot5Vbn8_R3w2vYLE=.hash",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Data.DataSetExtensions.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Data.DataSetExtensions.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\dxfTuT6ffPMmvuUUTfv7_bpLtOZZZHQdz77hjhy9qHw=.hash",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Data.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Data.dll.br"
+    },
+    {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\Bs1Wrmh4ex9dTEIT0yCRF52N-wOmsBDt457BHr0-ssM=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.Abstractions.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\mJGBZAT-NpcS6naQumWquEB_w0sqYCE5sX9NMwbLz_A=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUComponentStyle.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUComponentStyle.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorFluentUI.BFUComponentStyle.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\WAOY1gqM4J5a3oOR2QEMpm6dEHwRWZarnlJyqlI1ErM=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Sigil.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Sigil.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Sigil.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\LqwA2Rpm96Ualk0IhLZar87kfRCyKHzHTeTt2jYhm7M=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.JSInterop.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.JSInterop.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.dll.br"
     },
     {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\Tqh1Da_iTRQJEZUGAsMNFuZ4hf1PMf13WApRZod_uw4=.hash",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Text.Encodings.Web.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Text.Encodings.Web.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\HQeN_ZfHAERO_uW0fP0J9J3WV1hQ3vUIOWbqGSYBPp8=.hash",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Text.Json.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Text.Json.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\kL-omZDwqByAi_lPdMeDmr3XjHcn4RVb_LmZ4mut1Yc=.hash",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Runtime.CompilerServices.Unsafe.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Runtime.CompilerServices.Unsafe.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\OBWh2or_2mU6elwqPfmL72FBZVKl2WzTJ4L-IrKeXM4=.hash",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Bcl.AsyncInterfaces.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Bcl.AsyncInterfaces.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\TkH6yxFQlTfY8NfznePrCdYJiEVpM9Dqy4Uu4H9qk10=.hash",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Threading.Tasks.Extensions.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Threading.Tasks.Extensions.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\qAKfFnquY_7UC-MzLi04rjqEhLzTryCoLg-S6MxI19I=.hash",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Numerics.Vectors.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Numerics.Vectors.dll.br"
+    },
+    {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\39hpJci71KT7HcyeS35Teu3FZ90SwAQas8m7OeQOeFs=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUBaseComponent.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUBaseComponent.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorFluentUI.BFUBaseComponent.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\u7u2yp9L-jRfnwX-S2j2Yh7bJ_J3a9bx4xKCX7aCwKM=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Reactive.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Reactive.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Reactive.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\3qQLIayyoZ2NAkgoYQTPaMFAfCkuY30vLlPSpaAvxd8=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Runtime.InteropServices.WindowsRuntime.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Runtime.InteropServices.WindowsRuntime.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Runtime.InteropServices.WindowsRuntime.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\R_wob2AFPj32AR0iY5TgraWLqIi2I-jz6qTI14wbqvE=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUResponsiveLayout.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUResponsiveLayout.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorFluentUI.BFUResponsiveLayout.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\qgedACv6raFgtFC5Zwrk9sdeXrpqVhPg9TwUI-7IIrc=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUDialog.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUDialog.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorFluentUI.BFUDialog.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\jBNYcUraQ9u6ZODgSSnbk7ghhRs3Kad0w1Agb-7MlNE=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUButton.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUButton.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorFluentUI.BFUButton.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\te6VkXjzGiArLdAvFXkN9xa7U_UWdjISqO2Ab0BR4g8=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUIcon.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUIcon.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorFluentUI.BFUIcon.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\mOMqhQ5YvSVPIPgu9-3rKsTYai41xj56LsbbQy8IAlU=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUKeytip.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUKeytip.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorFluentUI.BFUKeytip.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\orLo2hNvzNS780Lt7_LWHuvRO0ztvDTpG7SopdmvyWs=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUCallout.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUCallout.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorFluentUI.BFUCallout.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\1dl4ODbCn6Ylx51Grh9Otrqp5k4To1oVJXVIWC-_Ryc=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUPopup.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUPopup.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorFluentUI.BFUPopup.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\bSgsT2x5xMvs8mara5wU_EJwcyHa9GVMU85HwhWcdWM=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Components.Web.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Components.Web.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.Web.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\m7Q_cF5-ji3OMfdGlCuE8pQ-iM_kxNHLq-IEWVvIaOg=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Components.Forms.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Components.Forms.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.Forms.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\tmnkCmP9OzLUkpQ3LP7PRosi7gt5pyfEZCM6aqAokFI=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.ComponentModel.Annotations.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.ComponentModel.Annotations.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.ComponentModel.Annotations.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\LIfCYwg_PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.ComponentModel.DataAnnotations.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.ComponentModel.DataAnnotations.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.ComponentModel.DataAnnotations.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\lZ5MhPOuVyi9dj36ETK2dmOvtXf-RPk1yGyuHpDjWrg=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUContextualMenu.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUContextualMenu.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorFluentUI.BFUContextualMenu.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\lNLDy5ruG-OOZeqoe58i9L3NUJKBM9XYCvaiL51uaNE=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUFocusZone.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUFocusZone.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorFluentUI.BFUFocusZone.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\7iTIQJw0lE9xKtj3rXhDJL5ewTMXts55mr_ZTU6Sg8w=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUTooltip.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUTooltip.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorFluentUI.BFUTooltip.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\XFrkDFI87pEzkyqqG958u9gHR1QpGh6t_vjbLHv0vbU=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUOverlay.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUOverlay.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorFluentUI.BFUOverlay.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\jOnmiTIkCPrlOq9PSYRQZrLUqtge_f4Xl0ILjz0hD0Q=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUModal.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUModal.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorFluentUI.BFUModal.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\p5_g1zck5pPcbxKTpcKIHtc-3BHB_5NgiQHB2-jjJe0=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUFocusTrapZone.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUFocusTrapZone.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorFluentUI.BFUFocusTrapZone.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\CZUU_1avndbFQGP0U_YVD1ccoP2EB1OvzwFuldL-BMo=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUTextField.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUTextField.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorFluentUI.BFUTextField.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\lPo7MHYbGqMYL2dQQyprdhi6ZuANV4iOY4fk7Xhfeug=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUDelayedRender.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUDelayedRender.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorFluentUI.BFUDelayedRender.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\XBp0B5CMxQDRbruAhmeTjdZoUQFo4fbhReSYbxKL8MI=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFULabel.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFULabel.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorFluentUI.BFULabel.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\lR-9GfvPV-UeMvvVIzD6ocihkbPdFb4HbfPgY6K4AYI=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUOverflowSet.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUOverflowSet.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorFluentUI.BFUOverflowSet.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\3aGz47ZYYM8Anv6xUo13F8goX4BgUfDx5K-ofs2Gg0s=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUText.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUText.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorFluentUI.BFUText.dll.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\cd6sglhwV3uI8LoZNMNTqFCEdg61Xu3PodpwLFf_xAw=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUStack.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorFluentUI.BFUStack.dll.br"
-    },
-    {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\I35mL9yA_yKlIVJXJDsbtfb-snpVPVRFTdTDvysJN18=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\DynamicData.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/DynamicData.dll.br"
-    },
-    {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\sn3eAuEDsNL6jLGcaRHhcxID0LV-LAcjr03eydnQ3S0=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUDropdown.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUDropdown.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorFluentUI.BFUDropdown.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\Cyfzt-S5NcsOHgbPKh3yZhk2kEFSkD_BEaEDRAliJCA=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUPanel.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUPanel.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorFluentUI.BFUPanel.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\ZnZ9kxd-iCmOkesq9RxbSanDpzWJ43Zhux-F2oXqNzA=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUCheckbox.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUCheckbox.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorFluentUI.BFUCheckbox.dll.br"
     },
     {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\cd6sglhwV3uI8LoZNMNTqFCEdg61Xu3PodpwLFf_xAw=.hash",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUStack.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorFluentUI.BFUStack.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\I35mL9yA_yKlIVJXJDsbtfb-snpVPVRFTdTDvysJN18=.hash",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\DynamicData.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/DynamicData.dll.br"
+    },
+    {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\FJ_rEgcx6ljTxwbRXZSUGfrDKpVvOxHCSfNxbnXNn3M=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Components.WebAssembly.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Components.WebAssembly.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.WebAssembly.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\oK1Bjv95fH_hSbogUkJE_xDAI203kJG6lL6Sm-NuPWg=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.DependencyInjection.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.DependencyInjection.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\y-FyJQOcW2TOcTp7Iuv8brGBzL5ZP0oJdG7ysK_gtKc=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Primitives.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Primitives.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Primitives.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\n0Ag7rF7ZQamklPSZkakIXkRoa6JwlmPSS0cRaAhJQM=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Configuration.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Configuration.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\2jNkt--JGfoqWNB8whRdJotnsanWbH3FfxZWz0gyLTs=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Configuration.Abstractions.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Configuration.Abstractions.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.Abstractions.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\mQqyOIjuVduaLQ7ZyvDrChDLp8rTeQknIIWDzqsO4eY=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Configuration.Json.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Configuration.Json.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.Json.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\3trD3kyUrc0a2IrNSfLT2rSZ35MMdD2qtqG_vk_U8QA=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Configuration.FileExtensions.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Configuration.FileExtensions.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.FileExtensions.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\tY1dlliVr_yGzBF7d0z-iaulZfBJNaSrCKDD0RP2cc8=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.FileProviders.Physical.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.FileProviders.Physical.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.FileProviders.Physical.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\r8LuqDQgcB-c3E48xHqsAY1eRZB1ZtuqZF6nlufn7kg=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.FileSystemGlobbing.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.FileSystemGlobbing.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.FileSystemGlobbing.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\DrtNiKIMjfSOdamH5Bs5zHmjFADgNiwrY5tRgTm6XuI=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.FileProviders.Abstractions.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.FileProviders.Abstractions.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.FileProviders.Abstractions.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\_kkwUt5LUrFrnFcHiSvLP3Ps50UAimB6C5utgehqOo4=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Logging.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Logging.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\rvTW0d54uLW0iDMAX30lpmr9f8uHoS3YYkEU5zNGhyc=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Options.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Options.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Options.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\czNf3btAeBW-vvID5LAfgcsNZ_GM3ssVuPaMflcg0rs=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.JSInterop.WebAssembly.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.JSInterop.WebAssembly.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\kmVnIhpAC3C7Ds-vYNyMaFkVea0n3XHxnNoQjbt-Sdk=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUSelectionZone.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUSelectionZone.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorFluentUI.BFUSelectionZone.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\7f_OwTHQuHghGLYT2i8BVwMcEbjgvIXPemHmJD1B0fk=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUDetailsList.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUDetailsList.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorFluentUI.BFUDetailsList.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\v5PFlPj6fjPFJz0lR_t7nZGM6EEEgAid0DeJqqTw3_w=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUGroupedList.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUGroupedList.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorFluentUI.BFUGroupedList.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\wRmN3s_8QSgLA-cwZgDf81kRd1Ios61QyvlRSWbXPrU=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUSpinner.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUSpinner.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorFluentUI.BFUSpinner.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\1njDkeSWcDSASMCtdZALbtzfEwu0Wgh5JzDwQIFaAE0=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUDetailsRow.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUDetailsRow.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorFluentUI.BFUDetailsRow.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\YatXnqpW4KKQEvoiXB0hZyqRrn7h-iFGnFcnXkwZnzg=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUCheck.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUCheck.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorFluentUI.BFUCheck.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\Bg_YETiYRzd9glywnJiAboJuFaEtJmVaGH27b1M2L1k=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUList.dll",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorFluentUI.BFUList.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorFluentUI.BFUList.dll.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\YI5z9YVM0y8CVBs2LHuFYnfdyXKrpzkPDH0aX9_luow=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\CyberTool_BLAZOR.pdb",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\a5gTAwKkzJ5upYsnmG5zkxcX75_TXmzP5Kg6SBbluno=.hash",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\CyberTool_BLAZOR.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/CyberTool_BLAZOR.pdb.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\H7rxb8UF_dfJaSS8XAscqYQvL9qCDhw-0T4-pWFxwic=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Sigil.pdb",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Sigil.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Sigil.pdb.br"
     },
     {
@@ -476,8 +471,8 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\CQl4j5lPIE3cl74w5eyXkPXB1TAm9BcxTkkkJ5I1p80=.hash",
-      "Source": "C:\\Users\\Eliel\\source\\repos\\Cybersecurity Tool\\CyberTool_BLAZOR\\CyberTool_BLAZOR\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\5k0tJua5sWT40KgO54fLxA2PjgAbAXPlDzin5I_Auug=.hash",
+      "Source": "C:\\Users\\Eliel\\Documents\\GitHub\\CybersecurityCenterRepo\\CSCRT\\Blazor_WebApp\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.br"
     }
   ]

@@ -12,11 +12,8 @@
     <BFUTextField Label="Search"
                   @bind-Value=@dataContainer.Filter
                   @bind-Value:event="OnInput" />
-    <BFUStack Horizontal="true" Style=@("height:44px")>
-        <BFUCommandBarButton IconName="Mail" Text="Send mail" Disabled="Disabled" Checked="Checked" />
-        <BFUDropdown ItemsSource=@selectionModeOptions
-                     @bind-SelectedOption=selectedModeOption
-                     Style="max-width:300px;" />
+    <BFUStack Horizontal="true" Style=@("height:40px")>
+        <BFUCommandBarButton IconName="Delete" Text="Delete" Disabled="Disabled" Checked="Checked" />
     </BFUStack>
 
     <BFUDetailsList ItemsSource="ReadonlyList"
@@ -25,7 +22,7 @@
                     Columns="ReadonlyColumns"
                     LayoutMode="DetailsListLayoutMode.Justified"
                     @bind-Selection="selection"
-                    SelectionMode=@((SelectionMode)Enum.Parse(typeof(SelectionMode), selectedModeOption.Key)) />
+                    SelectionMode=@SelectionMode.Multiple />
 </BFUStack>
 
 @code {
@@ -33,11 +30,6 @@
     // You DO NOT have to use DynamicData and Observables with DetailsList.  You can do it all manually.  See
     // https://developer.microsoft.com/en-us/fluentui#/controls/web/detailslist for examples of how to use DetailsList
     // other ways.
-
-    bool isVirtualizing = false;
-    bool isCompact = false;
-    IBFUDropdownOption selectedModeOption;
-    List<IBFUDropdownOption> selectionModeOptions;
 
 
     Selection<DataItem> selection = new Selection<DataItem>();
@@ -107,20 +99,15 @@
 
     protected override void OnInitialized()
     {
-        selectionModeOptions = Enum.GetValues(typeof(SelectionMode)).Cast<SelectionMode>()
-           .Select(x => new BFUDropdownOption { Key = x.ToString(), Text = x.ToString() })
-           .Cast<IBFUDropdownOption>()
-           .ToList();
-        selectedModeOption = selectionModeOptions.FirstOrDefault(x => x.Key == "Single");
-
+       
         // We load the column data into the columnsSource SourceCache.
-        columnsSource.AddOrUpdate(new BFUDetailsRowColumn<DataItem>("Key", x => x.KeyNumber) { MaxWidth = 70, Index = 0, OnColumnClick = this.OnColumnClick, IsResizable = true });
+        columnsSource.AddOrUpdate(new BFUDetailsRowColumn<DataItem>("Submission #", x => x.KeyNumber) { MaxWidth = 70, Index = 0, OnColumnClick = this.OnColumnClick, IsResizable = true });
         columnsSource.AddOrUpdate(new BFUDetailsRowColumn<DataItem>("Name", x => x.DisplayName) { Index = 1, MaxWidth = 150, OnColumnClick = this.OnColumnClick, IsResizable = true });
         var descColumn = new BFUDetailsRowColumn<DataItem>("Description", x => x.Description) { Index = 2, OnColumnClick = this.OnColumnClick };
         columnsSource.AddOrUpdate(descColumn);
 
         // We're loading our sample data into the dataSource SourceCache.
-        for (var i = 0; i < 100; i++)
+        for (var i = 0; i < 10; i++)
         {
             count++;
             dataSource.AddOrUpdate(new DataItem(count));
@@ -227,7 +214,7 @@
     {
         MenuProperties = new System.Collections.Generic.List<BFUContextualMenuItem>()
 {
-            new BFUContextualMenuItem() { Key = "emailMessage", Text = "Email message", IconName="Mail"},
+            new BFUContextualMenuItem() { Key = "Delete", Text = "Delete", IconName="Delete"},
         };
         buttonCommand = new BlazorFluentUI.Demo.Shared.Utils.RelayCommand((p) =>
         {

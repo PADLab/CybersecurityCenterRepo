@@ -1,5 +1,5 @@
 ﻿<StaticWebAssets Version="1.0">
-  <ContentRoot BasePath="/" Path="C:\Users\Eliel\source\repos\Cybersecurity Tool\CyberTool_BLAZOR\CyberTool_BLAZOR\bin\Debug\netstandard2.1\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\Eliel\Documents\GitHub\CybersecurityCenterRepo\CSCRT\Blazor_WebApp\bin\Debug\netstandard2.1\wwwroot\" />
   <ContentRoot BasePath="_content/BlazorFluentUI.BFUBaseComponent" Path="C:\Users\Eliel\.nuget\packages\blazorfluentui.bfubasecomponent\3.1.6\build\..\staticwebassets\" />
   <ContentRoot BasePath="_content/BlazorFluentUI.BFUCallout" Path="C:\Users\Eliel\.nuget\packages\blazorfluentui.bfucallout\3.1.6\build\..\staticwebassets\" />
   <ContentRoot BasePath="_content/BlazorFluentUI.BFUContextualMenu" Path="C:\Users\Eliel\.nuget\packages\blazorfluentui.bfucontextualmenu\3.1.6\build\..\staticwebassets\" />

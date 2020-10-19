@@ -1,0 +1,32 @@
+﻿@page "/"
+
+<h1>Hello, Professor/Student!</h1>
+
+<p>
+    Welcome to the Cybersecurity Publication Submision Tool (CPST)
+</p>
+<BFUDefaultButton Text="Sign In" OnClick=@(args => largeDialogOpen = true) />
+<BFUDialog
+           SubText="Please log in before continuing"
+           IsOpen=@largeDialogOpen
+           IsBlocking=@isBlocking
+           DialogType=@DialogType.LargeHeader
+           OnDismiss=@(args => largeDialogOpen = false )>
+    <ChildContent>
+        <p>
+            <BFUTextField Label="Login:" Placeholder="Email" />
+            <BFUTextField Placeholder="Password" />
+        </p>
+    </ChildContent>
+    <FooterTemplate>
+        <BFUDefaultButton Text="Cancel" OnClick=@(args => largeDialogOpen = false) />
+        <BFUPrimaryButton Text="Submit" OnClick=@(args => largeDialogOpen = false) />
+    </FooterTemplate>
+</BFUDialog>
+
+@code {
+        bool dialogOpen = false;
+        bool largeDialogOpen = false;
+        string uncontrolledSingleSelectionResult;
+        bool isBlocking = false;
+    }

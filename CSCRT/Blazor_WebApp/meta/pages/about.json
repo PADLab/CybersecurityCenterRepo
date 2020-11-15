@@ -1,0 +1,31 @@
+{
+  "access": [],
+  "components": [
+    {
+      "components": [
+        {
+          "name": "pageTitle",
+          "size": "H1",
+          "text": "About",
+          "type": "heading"
+        },
+        {
+          "attributes": [],
+          "name": "About-Description",
+          "size": "H3",
+          "style": {
+            "height": "73px",
+            "width": "954.3333740234375px"
+          },
+          "text": "A cybersecurity IT publication tool created for use within Umass Dartmouth. This tool aims to help shorten the timeline of applying for the NSA CAE-CO.",
+          "type": "heading",
+          "visible": true
+        }
+      ],
+      "container": "main",
+      "type": "content"
+    }
+  ],
+  "layout": "Main",
+  "name": "About"
+}

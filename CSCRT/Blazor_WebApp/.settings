@@ -1,0 +1,1 @@
+{"deploy":{"provider":"zip","server":"","user":"","password":"","siteName":"/","connectionStrings":{"PublicationBibs":{"value":"Host=lallah.db.elephantsql.com;Database=ecwxcqhk;User ID=ecwxcqhk;Password=NZ4YiFABs9LbO8LvOcSzcQz5ReFGsROj;"}},"endPoints":{},"method":"computerName","removeAdditional":true}}

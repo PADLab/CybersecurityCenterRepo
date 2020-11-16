@@ -1,0 +1,5 @@
+﻿<linker>
+  <assembly fullname="CyberTool.Client">
+    <type fullname="*" required="true" />
+  </assembly>
+</linker>

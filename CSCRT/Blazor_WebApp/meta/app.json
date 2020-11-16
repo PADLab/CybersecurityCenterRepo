@@ -1,0 +1,35 @@
+{
+  "dataSources": [
+    "Publication Bibs"
+  ],
+  "generator": "@radzen/blazor-server",
+  "https": true,
+  "ignore": [
+    ""
+  ],
+  "layouts": [
+    "Login",
+    "Main"
+  ],
+  "logo": "",
+  "name": "CyberTool",
+  "navigation": [
+    "About",
+    "Publication Bibs Publications"
+  ],
+  "pages": [
+    "About",
+    "Publication Bibs Publications",
+    "Add Publication Bibs Publication",
+    "Edit Publication Bibs Publication"
+  ],
+  "port": 8000,
+  "pwa": true,
+  "serverLang": "cs",
+  "serverPort": 5000,
+  "serverProject": true,
+  "serverVersion": "3",
+  "startPage": "About",
+  "theme": "default",
+  "wasm": true
+}

@@ -1,0 +1,71 @@
+﻿@page "/publication-bibs-publications"
+@layout MainLayout
+@inherits CyberTool.Pages.PublicationBibsPublicationsComponent
+
+@using Radzen
+@using Radzen.Blazor
+@using CyberTool.Models.PublicationBibs
+<RadzenContent Container="main">
+  <ChildContent>
+    <RadzenHeading Size="H1" Text="Publication Bibs Publications">
+    </RadzenHeading>
+    <div class="row">
+      <div class="col-md-12">
+        <RadzenButton Icon="add_circle_outline" style="margin-bottom: 10px" Text="Add" Click="@Button0Click">
+        </RadzenButton>
+        <RadzenSplitButton Icon="get_app" style="margin-left: 10px; margin-bottom: 10px" Text="Export" Click="@Splitbutton0Click">
+          <ChildContent>
+            <RadzenSplitButtonItem Text="Excel" Value="xlsx">
+            </RadzenSplitButtonItem>
+            <RadzenSplitButtonItem Text="CSV" Value="csv">
+            </RadzenSplitButtonItem>
+          </ChildContent>
+        </RadzenSplitButton>
+        <RadzenTextBox Placeholder="Search ..." style="display: block; margin-bottom: 10px; width: 100%" Name="Textbox0" @oninput="@(async(args) => {search = $"{args.Value}";await grid0.Reload();})">
+        </RadzenTextBox>
+        <RadzenGrid @ref="grid0" AllowFiltering="true" FilterMode="FilterMode.Advanced" AllowPaging="true" AllowSorting="true" Data="@getPublicationBibsPublicationsResult" Count="@getPublicationBibsPublicationsCount" TItem="CyberTool.Models.PublicationBibs.PublicationBibsPublication" LoadData="@Grid0LoadData" RowSelect="@Grid0RowSelect">
+          <Columns>
+            <RadzenGridColumn TItem="CyberTool.Models.PublicationBibs.PublicationBibsPublication" Property="url" Title="Url">
+            </RadzenGridColumn>
+            <RadzenGridColumn TItem="CyberTool.Models.PublicationBibs.PublicationBibsPublication" Property="id" Title="Id">
+            </RadzenGridColumn>
+            <RadzenGridColumn TItem="CyberTool.Models.PublicationBibs.PublicationBibsPublication" Property="type" Title="Type">
+            </RadzenGridColumn>
+            <RadzenGridColumn TItem="CyberTool.Models.PublicationBibs.PublicationBibsPublication" Property="title" Title="Title">
+            </RadzenGridColumn>
+            <RadzenGridColumn TItem="CyberTool.Models.PublicationBibs.PublicationBibsPublication" Property="journal" Title="Journal">
+            </RadzenGridColumn>
+            <RadzenGridColumn TItem="CyberTool.Models.PublicationBibs.PublicationBibsPublication" Property="booktitle" Title="Booktitle">
+            </RadzenGridColumn>
+            <RadzenGridColumn TItem="CyberTool.Models.PublicationBibs.PublicationBibsPublication" Property="pages" Title="Pages">
+            </RadzenGridColumn>
+            <RadzenGridColumn TItem="CyberTool.Models.PublicationBibs.PublicationBibsPublication" Property="month" Title="Month">
+            </RadzenGridColumn>
+            <RadzenGridColumn TItem="CyberTool.Models.PublicationBibs.PublicationBibsPublication" Property="year" Title="Year">
+            </RadzenGridColumn>
+            <RadzenGridColumn TItem="CyberTool.Models.PublicationBibs.PublicationBibsPublication" Property="volume" Title="Volume">
+            </RadzenGridColumn>
+            <RadzenGridColumn TItem="CyberTool.Models.PublicationBibs.PublicationBibsPublication" Property="number" Title="Number">
+            </RadzenGridColumn>
+            <RadzenGridColumn TItem="CyberTool.Models.PublicationBibs.PublicationBibsPublication" Property="editor" Title="Editor">
+            </RadzenGridColumn>
+            <RadzenGridColumn TItem="CyberTool.Models.PublicationBibs.PublicationBibsPublication" Property="event1" Title="Event">
+            </RadzenGridColumn>
+            <RadzenGridColumn TItem="CyberTool.Models.PublicationBibs.PublicationBibsPublication" Property="institution" Title="Institution">
+            </RadzenGridColumn>
+            <RadzenGridColumn TItem="CyberTool.Models.PublicationBibs.PublicationBibsPublication" Property="note" Title="Note">
+            </RadzenGridColumn>
+            <RadzenGridColumn TItem="CyberTool.Models.PublicationBibs.PublicationBibsPublication" Property="day" Title="Day">
+            </RadzenGridColumn>
+            <RadzenGridColumn TItem="CyberTool.Models.PublicationBibs.PublicationBibsPublication" Filterable="false" Sortable="false" Width="70px" TextAlign="TextAlign.Center">
+              <Template Context="cyberToolModelsPublicationBibsPublicationBibsPublication">
+                <RadzenButton ButtonStyle="ButtonStyle.Danger" Icon="close" Size="ButtonSize.Small" Click="@((args) =>GridDeleteButtonClick(args, cyberToolModelsPublicationBibsPublicationBibsPublication))" @onclick:stopPropagation="true">
+                </RadzenButton>
+              </Template>
+            </RadzenGridColumn>
+          </Columns>
+        </RadzenGrid>
+      </div>
+    </div>
+  </ChildContent>
+</RadzenContent>

@@ -1,0 +1,5 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="_content/Microsoft.AspNetCore.Components.WebAssembly.Authentication" Path="C:\Users\Eliel\.nuget\packages\microsoft.aspnetcore.components.webassembly.authentication\3.2.0\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/Radzen.Blazor" Path="C:\Users\Eliel\.nuget\packages\radzen.blazor\2.16.3\build\..\staticwebassets\" />
+  <ContentRoot BasePath="/" Path="C:\Users\Eliel\Desktop\College\Cyber Tool\RAZDEN\client\bin\Debug\netstandard2.1\wwwroot\" />
+</StaticWebAssets>

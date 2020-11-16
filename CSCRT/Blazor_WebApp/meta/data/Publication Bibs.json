@@ -1,0 +1,235 @@
+{
+  "info": {
+    "title": "Publication Bibs",
+    "x-type": "odata",
+    "x-connector": "postgresql"
+  },
+  "definitions": {
+    "PublicationBibsPublication": {
+      "x-table": "cyber.publications",
+      "resource": "PublicationBibsPublications",
+      "required": [
+        "type",
+        "title",
+        "year"
+      ],
+      "properties": {
+        "url": {
+          "type": "string"
+        },
+        "id": {
+          "x-key": true,
+          "x-default-sql": "nextval('cyber.publications_id_seq'::regclass)",
+          "x-nullable": false,
+          "type": "integer"
+        },
+        "type": {
+          "x-nullable": false,
+          "type": "string"
+        },
+        "title": {
+          "x-nullable": false,
+          "type": "string"
+        },
+        "journal": {
+          "type": "string"
+        },
+        "booktitle": {
+          "type": "string"
+        },
+        "pages": {
+          "type": "string"
+        },
+        "month": {
+          "type": "integer"
+        },
+        "year": {
+          "x-nullable": false,
+          "type": "integer"
+        },
+        "volume": {
+          "type": "integer"
+        },
+        "number": {
+          "type": "integer"
+        },
+        "editor": {
+          "type": "string"
+        },
+        "event1": {
+          "x-original-name": "event",
+          "type": "string"
+        },
+        "institution": {
+          "type": "string"
+        },
+        "note": {
+          "type": "string"
+        },
+        "day": {
+          "type": "integer"
+        }
+      }
+    }
+  },
+  "paths": {
+    "/PublicationBibsPublications": {
+      "get": {
+        "operationId": "getPublicationBibsPublications",
+        "parameters": [
+          {
+            "in": "query",
+            "name": "$filter",
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "$orderby",
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "$expand",
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "$top",
+            "type": "integer"
+          },
+          {
+            "in": "query",
+            "name": "$skip",
+            "type": "integer"
+          },
+          {
+            "in": "query",
+            "name": "$count",
+            "type": "boolean"
+          },
+          {
+            "in": "query",
+            "name": "$format",
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "schema": {
+              "properties": {
+                "value": {
+                  "items": {
+                    "$ref": "#/definitions/PublicationBibsPublication"
+                  },
+                  "type": "array"
+                }
+              },
+              "type": "object"
+            }
+          },
+          "default": {
+            "schema": {
+              "$ref": "#/definitions/Error"
+            }
+          }
+        }
+      },
+      "post": {
+        "operationId": "createPublicationBibsPublication",
+        "parameters": [
+          {
+            "in": "body",
+            "name": "PublicationBibsPublication",
+            "schema": {
+              "$ref": "#/definitions/PublicationBibsPublication"
+            }
+          }
+        ],
+        "responses": {
+          "201": {
+            "schema": {
+              "$ref": "#/definitions/PublicationBibsPublication"
+            }
+          },
+          "default": {
+            "schema": {
+              "$ref": "#/definitions/Error"
+            }
+          }
+        }
+      }
+    },
+    "/PublicationBibsPublications({id})": {
+      "delete": {
+        "operationId": "deletePublicationBibsPublication",
+        "parameters": [
+          {
+            "in": "path",
+            "name": "id",
+            "type": "integer"
+          }
+        ],
+        "responses": {
+          "204": {},
+          "default": {
+            "schema": {
+              "$ref": "#/definitions/Error"
+            }
+          }
+        }
+      },
+      "get": {
+        "operationId": "getPublicationBibsPublicationByid",
+        "parameters": [
+          {
+            "in": "path",
+            "name": "id",
+            "type": "integer"
+          }
+        ],
+        "responses": {
+          "200": {
+            "schema": {
+              "$ref": "#/definitions/PublicationBibsPublication"
+            }
+          },
+          "default": {
+            "schema": {
+              "$ref": "#/definitions/Error"
+            }
+          }
+        }
+      },
+      "patch": {
+        "operationId": "updatePublicationBibsPublication",
+        "parameters": [
+          {
+            "in": "path",
+            "name": "id",
+            "type": "integer"
+          },
+          {
+            "in": "body",
+            "name": "PublicationBibsPublication",
+            "schema": {
+              "$ref": "#/definitions/PublicationBibsPublication"
+            }
+          }
+        ],
+        "responses": {
+          "204": {},
+          "default": {
+            "schema": {
+              "$ref": "#/definitions/Error"
+            }
+          }
+        }
+      }
+    }
+  },
+  "basePath": "/odata/PublicationBibs",
+  "host": "localhost:5001",
+  "schemes": [
+    "https"
+  ]
+}
